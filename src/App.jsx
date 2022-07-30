@@ -6,6 +6,7 @@ import Contact from "./pages/contact";
 import PageNotFound from "./pages/error/pageNotFound";
 import Home from "./pages/home";
 import ProjectDetails from "./pages/projectDetails";
+import MySkills from "./pages/mySkills";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/:id" element={<ProjectDetails />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/my-skills" element={<MySkills />} />
             <Route path="*" element={<PageNotFound />} />
           </Routes>
         </MDBContainer>
