@@ -42,7 +42,7 @@ const ProjectDetails = () => {
               alt="project-thumb"
               width={350}
               height={350}
-              className="rounded"
+              className="rounded shadow object-fit-contain"
             />
             {/* project main details */}
             <div className="project-main-details mt-3 text-center">

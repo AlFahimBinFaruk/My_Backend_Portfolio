@@ -3,11 +3,11 @@ const Contact = () => {
   let myInfo = [
     {
       title: "Email",
-      link: "alfahim@gmail.com",
+      link: "fah8m88@gmail.com,alfahimbinfaruk.inc@gmail.com",
     },
     {
       title: "facebook",
-      link: "www.facebook.com",
+      link: "https://www.facebook.com/profile.php?id=100048229787569",
     },
   ];
   return (

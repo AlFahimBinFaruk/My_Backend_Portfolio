@@ -1,3 +1,6 @@
 body {
   font-family: Roboto, Helvetica, Arial, sans-serif;
 }
+.object-fit-contain{
+  object-fit: contain!important;
+}
