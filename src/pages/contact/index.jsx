@@ -4,7 +4,7 @@ const Contact = () => {
   let myInfo = [
     {
       title: "Email",
-      name: "fah8m88@gmail.com,alfahimbinfaruk.inc@gmail.com",
+      name: "fah8m88@gmail.com",
     },
     {
       title: "facebook",
