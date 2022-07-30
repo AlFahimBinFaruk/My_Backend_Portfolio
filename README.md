@@ -3,7 +3,8 @@
 #### Project Infos
 ##### Data models
 * Programming Languages,tools,hosting and other skills.
-  * Contentful rich text editor.
+  * title
+  * thumbnail
 * My Project list.
   * title
   * preview link
