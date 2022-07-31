@@ -67,7 +67,13 @@ const Header = () => {
 
             {/* download cv */}
             <MDBNavbarItem className="fw-bold">
-              <MDBNavbarLink>Download CV</MDBNavbarLink>
+              <a
+                href="/assets/resume/myResume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <MDBNavbarLink>Download CV</MDBNavbarLink>
+              </a>
             </MDBNavbarItem>
             {/* github link */}
             <MDBNavbarItem className="fw-bold">
